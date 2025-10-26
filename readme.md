@@ -1,6 +1,6 @@
 # Conversor ASCII com Bit de Paridade
 
-Este trabalho foi feito por **Paulo Teles Serra Azul**, estudante de Engenharia de Computação da UFBA no semestre 2025.2, para a matéria de Sistemas Digitais.
+Este trabalho foi feito por **Paulo Teles Serra Azul**, estudante de Engenharia de Computação da UFBA no semestre 2025.2, para a matéria de Sistemas Lógicos.
 
 ## Objetivo do Projeto
 
